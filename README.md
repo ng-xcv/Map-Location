@@ -5,13 +5,13 @@
 <a href="https://github.com/ngxcv" title="Faites un tour sur mes autres projets" target="_blank" ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png" /></a> <h6><em> by ng_xcv 😁 </em></h6>
 
 <br/>
-Il s'agit la d'une application MERN STACK basée sur le modéle RestFul API, qui permet d'ajouter des Points sur 
-une carte tout en déterminant la Longitude et la Latitude de ce dernier<br />
-L'application traite : 
-    - l'insciption pour un nouvel utilisateur.
-    - La connexion
-    - La création d'un point.
-    - L'affichage d'un Point 
+Il s'agit la d'une application MERN STACK basée sur le modéle RestFul API qui permet d'ajouter des Points sur 
+une carte tout en déterminant la Longitude et la Latitude de ce dernier.<br />
+L'application traite : <br />
+    - l'insciption pour un nouvel utilisateur. <br />
+    - La connexion <br />
+    - La création d'un point. <br />
+    - L'affichage d'un Point <br />
     - La modification d'un point 
 
 <br />
