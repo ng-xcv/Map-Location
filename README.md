@@ -4,7 +4,7 @@
 
 <a href="https://github.com/ngxcv" title="Faites un tour sur mes autres projets" target="_blank" ><img align="left" alt="Ahmadou Ngary faye" height="28" src="https://i.ibb.co/JjJ0w2v/brand.png" /></a> <h6><em> by ng_xcv 😁 </em></h6>
 
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+<img src="frontend/public/image.png" />
 
 <br/>
 Il s'agit la d'une application MERN STACK basée sur le modéle RestFul API qui permet d'ajouter des Points sur 
