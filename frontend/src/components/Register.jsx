@@ -34,7 +34,7 @@ export default function Register({setShowRegister}) {
         <Room className="logoIcon" />  by Ng_xcv
       </div>
       <form onSubmit={handleSubmit}>
-        <input placeholder="username" ref= {nameRef} />
+        <input placeholder="username" ref={nameRef} />
         <input type="email" placeholder="email" ref= {emailRef}  />
         <input type="password" min="6" placeholder="password" ref= {passwordRef}
         />
